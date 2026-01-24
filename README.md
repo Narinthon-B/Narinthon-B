@@ -1,6 +1,6 @@
 ## Hi there 👋
 ```python
-class DataInProgress:
+class AboutMe:
   def __init__(self):
       self.name = "Narinthon"
       self.status = "Computer and Robotics Engineering Student"
