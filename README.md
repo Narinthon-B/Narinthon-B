@@ -9,7 +9,7 @@ class AboutMe:
           "Data": ["Pandas", "Numpy", "Matplotlib", "ELT", "Data Modeling"]
       }
   def say_hi(self):
-      print("Thanks for stopping by my profile Hope you find something interesting here")
+      print("Thanks for stopping by my profile. Hope you find something interesting here.")
 
-me = DataInProgress()
+me = AboutMe()
 me.say_hi()
