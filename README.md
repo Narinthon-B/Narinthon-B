@@ -7,7 +7,7 @@ class AboutMe:
       self.status = "Computer and Robotics Engineering Student"
       self.tech_stack = {
           "Language": ["Python", "SQL"],
-          "Data": ["Pandas", "Numpy", "Matplotlib", "ELT", "Data Modeling"]
+          "Data": ["Pandas", "Numpy", "Matplotlib", "Data Modeling"]
       }
 
   def say_hi(self):
