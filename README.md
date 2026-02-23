@@ -3,7 +3,7 @@
 class AboutMe:
 
   def __init__(self):
-      self.name = "Narinthon"
+      self.name = "Narinthon Tanwiboon"
       self.status = "Computer and Robotics Engineering Student"
       self.tech_stack = {
           "Language": ["Python", "SQL"],
